@@ -6,17 +6,18 @@ body {
 }
 
 header, footer {
-    background-color: #333;
-    color: white;
+    background-color: #ad9797;
+    color: rgb(245, 239, 239);
     text-align: center;
     padding: 10px 0;
 }
 
 main {
-    padding: 20px;
+    padding: 30px;
     text-align: center;
+    color: #b6a3a3;
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
 }
